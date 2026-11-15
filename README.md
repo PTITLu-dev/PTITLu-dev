@@ -11,6 +11,7 @@ Je développe des applications web et j'anime des séances de prévention en cyb
 ## Ce que je fais en ce moment
 
 - 🚀 **Fondateur de [Profnotes](https://profnotes.fr)** : un SaaS en ligne (Next.js, Supabase, Stripe, Vercel) qui a ses premiers inscrits. Le code est privé, mais le produit est visible sur [profnotes.fr](https://profnotes.fr).
+- 🎤 **Speaker à [GreHack 2026](https://cfp.grehack.fr/grehack-2026/schedule/)** : talk co-présenté en anglais, *From Zero to APT: Building an Offensive Cyber Capability in Six Weeks* (Grenoble, novembre 2026).
 - 🛡️ **J'interviens en prévention cybersécurité** dans le programme *Cybersecurity Seminars* financé par Google.org. J'y suis depuis septembre 2025 et j'ai animé plus de 20 séances.
 - 🏠 **Domotique** : je fais tourner Home Assistant sur Proxmox, avec environ 25 appareils.
 - 🌐 **[petitlucas.com](https://petitlucas.com)** : mon site, codé à la main sans framework.
